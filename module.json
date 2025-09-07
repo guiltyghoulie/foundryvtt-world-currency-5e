@@ -1,5 +1,5 @@
 {
-    "name": "world-currency-5e",
+    "id": "world-currency-5e",
     "title": "World Currency 5e",
     "description": "Use currencies unique to your world in D&D 5E.",
     "authors": [{ "name": "cstby" }],
@@ -42,3 +42,4 @@
         }
     ]
 }
+
